@@ -1,0 +1,62 @@
+.warranty-tab{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.warranty-tab .warranty-tab__header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.warranty-tab .warranty-tab__header .warranty-tab__left{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.warranty-tab .warranty-tab__header .warranty-tab__right{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.warranty-tab .warranty-tab__header .warranty-tab__right .button{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.warranty-tab .warranty-tab__header .warranty-tab__right button svg path{
+    stroke: #ffffff;
+}
+
+.product-warranty-info{
+    max-width: 400px;
+}
+
+.product-warranty-info span{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.product-warranty-info span:hover{
+    color: #ffffff;
+}
+
+.warranty-details-form__user{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    width: 100%;
+}
+
+.warranty-details-form__user span{
+    color: #0C0C0C !important;
+    text-decoration: none !important;
+}

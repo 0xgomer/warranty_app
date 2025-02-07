@@ -1,0 +1,17 @@
+.statistic-form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.statistic-form .statistic-form__header{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.statistic-form .statistic-form__charts{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}

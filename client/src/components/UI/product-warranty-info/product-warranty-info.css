@@ -1,0 +1,14 @@
+.product-warranty-info{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 100%;
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    background: #0C0C0C;
+}
+
+.product-warranty-info span{
+    color: #ffffff;
+}

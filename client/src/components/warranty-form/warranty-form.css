@@ -1,0 +1,31 @@
+.warranty-form{
+    max-width: 485px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin: 0 auto;
+}
+
+.warranty-form .warranty-form__text, .warranty-form .warranty-form__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.warranty-form .warranty-form__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+}
+
+.warranty-form .warranty-form__form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}

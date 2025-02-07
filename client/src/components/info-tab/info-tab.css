@@ -1,0 +1,11 @@
+.info-tab{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.info-tab .info-tab__header{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
